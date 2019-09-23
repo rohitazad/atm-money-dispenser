@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/atm-money-dispenser/precache-manifest.5d8879219249c915f83260217de0aed2.js"
+  "/atm-money-dispenser/precache-manifest.a595e298d41a91799818d27df490c9eb.js"
 );
 
 self.addEventListener('message', (event) => {
