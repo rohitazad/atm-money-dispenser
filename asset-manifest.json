@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atm-money-dispenser/static/css/main.05eb8dce.chunk.css",
+    "main.js": "/atm-money-dispenser/static/js/main.1e2e97f3.chunk.js",
+    "main.js.map": "/atm-money-dispenser/static/js/main.1e2e97f3.chunk.js.map",
+    "runtime-main.js": "/atm-money-dispenser/static/js/runtime-main.d660fc9f.js",
+    "runtime-main.js.map": "/atm-money-dispenser/static/js/runtime-main.d660fc9f.js.map",
+    "static/js/2.7388ec0c.chunk.js": "/atm-money-dispenser/static/js/2.7388ec0c.chunk.js",
+    "static/js/2.7388ec0c.chunk.js.map": "/atm-money-dispenser/static/js/2.7388ec0c.chunk.js.map",
+    "index.html": "/atm-money-dispenser/index.html",
+    "precache-manifest.5d8879219249c915f83260217de0aed2.js": "/atm-money-dispenser/precache-manifest.5d8879219249c915f83260217de0aed2.js",
+    "service-worker.js": "/atm-money-dispenser/service-worker.js",
+    "static/css/main.05eb8dce.chunk.css.map": "/atm-money-dispenser/static/css/main.05eb8dce.chunk.css.map"
+  }
+}
